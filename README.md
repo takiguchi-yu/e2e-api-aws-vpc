@@ -17,7 +17,7 @@ cp .env.example .env
 ```sh
 npx playwright test
 # ファイル指定で実行する方法
-npx playwright test tests/restaurant-search.spec.ts
+npx playwright test tests/petstore.spec.ts
 ```
 
 ### Docker Image で実行する場合
