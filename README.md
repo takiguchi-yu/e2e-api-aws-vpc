@@ -36,7 +36,6 @@ docker run --rm api-e2e-testing
 ## 手動で CodeBuild を実行する方法
 
 1. AWS アカウントにログインして `CodeBuild` を開きます。
-   - [ログインページ](https://d-9567768c43.awsapps.com/start#/)
 2. CodeBuild を開いたら api-e2e-testing という名前のプロジェクトがあるため、クリックします。
 3. 右上に「 `ビルドを開始` 」というオレンジのボタンがあるため、クリックします。
 4. ビルドが開始されます。
