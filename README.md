@@ -33,8 +33,6 @@ docker run --rm api-e2e-testing
 
 ## AWS 構築手順
 
-- [AWS 構築手順](./doc/aws-build-step.md)
-
 ## 手動で CodeBuild を実行する方法
 
 1. AWS アカウントにログインして `CodeBuild` を開きます。
